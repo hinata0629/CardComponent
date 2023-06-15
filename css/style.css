@@ -1,0 +1,14 @@
+.card-component-wrapper {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #dddddd;
+}
+
+.card-component {
+    background: #fff;
+    width: 280px;
+    height: 360px;
+}
