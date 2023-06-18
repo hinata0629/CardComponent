@@ -12,3 +12,22 @@
     width: 280px;
     height: 360px;
 }
+.image-of-food{
+    width: 280px;
+    height: 200px;
+}
+.contents-title{
+    font-size: 20px;
+    text-align: center;
+    font-weight:500;
+    font-family: sans-serif;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.explanation-of-content{
+    font-size: 14px;
+    margin: 10px 10px 10px 10px;
+    font-weight: 500;
+    font-family: sans-serif;
+
+}
